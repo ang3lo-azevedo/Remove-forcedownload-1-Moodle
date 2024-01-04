@@ -4,8 +4,8 @@
 // @description  Remove o parâmetro ?forcedownload=1 no Moodle do ISEL e abre documentos numa nova tab
 // @author       Ângelo Azevedo
 // @match        https://2324moodle.isel.pt/*
-// @downloadURL  https://gist.githubusercontent.com/ang3lo-azevedo/855e618f77167b81ebf7b28803c6956e/raw/501e5faca1562472d4157e6cb8e1411967f0acba/Remove%2520-forcedownload=1%2520Moodle.js
-// @updateURL    https://gist.githubusercontent.com/ang3lo-azevedo/855e618f77167b81ebf7b28803c6956e/raw/501e5faca1562472d4157e6cb8e1411967f0acba/Remove%2520-forcedownload=1%2520Moodle.js
+// @downloadURL  https://raw.githubusercontent.com/ang3lo-azevedo/Remove-forcedownload-1-Moodle/main/Remove%20%3Fforcedownload%3D1%20Moodle.js
+// @updateURL    https://raw.githubusercontent.com/ang3lo-azevedo/Remove-forcedownload-1-Moodle/main/Remove%20%3Fforcedownload%3D1%20Moodle.js
 // ==/UserScript==
 
 (function() {
