@@ -4,7 +4,7 @@
 // @description    Remove o parâmetro ?forcedownload=1 no Moodle do ISEL e abre documentos numa nova tab
 // @description:pt Não façam download de jogos pirateados a partir de sites brasileiros se faz favor. Usem o r/Piracy.
 // @author         Ângelo Azevedo
-// @match          https://*moodle.isel.pt/*
+// @match          https://*.isel.pt/*
 // @downloadURL    https://raw.githubusercontent.com/ang3lo-azevedo/Remove-forcedownload-1-Moodle/main/Remove%20%3Fforcedownload%3D1%20Moodle.js
 // @updateURL      https://raw.githubusercontent.com/ang3lo-azevedo/Remove-forcedownload-1-Moodle/main/Remove%20%3Fforcedownload%3D1%20Moodle.js
 // ==/UserScript==
